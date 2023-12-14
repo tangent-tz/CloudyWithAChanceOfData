@@ -2,7 +2,7 @@ version: '2'
 services:
   server:
     build:
-      context: .
+      context: documentation-theme-jekyll-gh-pages
       dockerfile: Dockerfile
     image: result/latest
     ports:
