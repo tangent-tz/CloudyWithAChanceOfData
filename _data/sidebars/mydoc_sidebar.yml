@@ -35,6 +35,10 @@ entries:
     output: web, pdf
     folderitems:
 
+        - title: December 08, 2023
+          url: /document_2023_12_08.html
+          output: web, pdf
+
   - title: Data
     output: web, pdf
     folderitems:
