@@ -24,7 +24,7 @@ entries:
     folderitems:
 
       - title: Slides
-        url: /mydoc_slides.html
+        url: /slides.html
         output: web, pdf
 
       - title: Video
@@ -35,6 +35,10 @@ entries:
     output: web, pdf
     folderitems:
 
+        - title: January 27, 2024
+          url: /TestDocument.html
+          output: web, pdf
+
   - title: Data
     output: web, pdf
     folderitems:
@@ -42,6 +46,10 @@ entries:
   - title: Codes
     output: web, pdf
     folderitems:
+      -
+      - title: January 27, 2024
+        url: /Test.html
+        output: web, pdf
 
   - title: Q&A
     output: web, pdf
