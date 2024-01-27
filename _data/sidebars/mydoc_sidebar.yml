@@ -24,7 +24,7 @@ entries:
     folderitems:
 
       - title: Slides
-        url: /mydoc_slides.html
+        url: /slides.html
         output: web, pdf
 
       - title: Video
