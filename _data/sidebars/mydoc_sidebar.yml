@@ -35,8 +35,8 @@ entries:
     output: web, pdf
     folderitems:
 
-        - title: December 08, 2023
-          url: /document_2023_12_08.html
+        - title: January 27, 2024
+          url: /TestDocument.html
           output: web, pdf
 
   - title: Data
@@ -46,6 +46,10 @@ entries:
   - title: Codes
     output: web, pdf
     folderitems:
+      -
+      - title: January 27, 2024
+        url: /Test.html
+        output: web, pdf
 
   - title: Q&A
     output: web, pdf
