@@ -6,3 +6,5 @@ sidebar: mydoc_sidebar
 permalink: video.html
 folder: mydoc
 ---
+
+https://www.youtube.com/watch?v=ql2crYEVrMY
