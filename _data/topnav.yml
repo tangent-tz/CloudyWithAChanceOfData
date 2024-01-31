@@ -6,6 +6,11 @@ topnav:
     - title: GitHub
       external_url: https://github.com/tangent-tz/CloudyWithAChanceOfData
 
+- title: Topnav
+  items:
+    - title: Discussions
+      external_url: https://github.com/tangent-tz/CloudyWithAChanceOfData/discussions
+
 
 #Topnav dropdowns
 #topnav_dropdowns:
